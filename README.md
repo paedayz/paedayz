@@ -16,6 +16,20 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paedayz/paedayz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paedayz/paedayz/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/paedayz/paedayz/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ### 🧑‍💻 About Me
 
 ```ts
@@ -56,33 +70,6 @@ const qooz = {
 
 ---
 
-### 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/paedayz/Klongyaa-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paedayz&repo=Klongyaa-server&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/paedayz/SkillPlane-course-management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paedayz&repo=SkillPlane-course-management&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/paedayz/Miracle_Time">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paedayz&repo=Miracle_Time&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/paedayz/cli-buddy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paedayz&repo=cli-buddy&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/paedayz/Flutter_Localization">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paedayz&repo=Flutter_Localization&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/paedayz/GO_FIBER_BookList">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=paedayz&repo=GO_FIBER_BookList&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -91,20 +78,6 @@ const qooz = {
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paedayz&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=paedayz&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paedayz/paedayz/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paedayz/paedayz/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/paedayz/paedayz/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
