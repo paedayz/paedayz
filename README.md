@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=paedayz&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=paedayz.paedayz&left_text=Profile%20views&right_color=%230e75b6" alt="profile views" />
 <img src="https://img.shields.io/github/followers/paedayz?label=Followers&style=flat&color=36BCF7" alt="followers" />
 <img src="https://img.shields.io/badge/Location-Bangkok-2c5364?style=flat&logo=googlemaps&logoColor=white" alt="location" />
 
