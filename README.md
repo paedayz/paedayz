@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:caf0f8,25:48cae4,55:0582ca,80:0a3d62,100:03203c&height=220&section=header&text=🐙%20Qooz&fontSize=60&fontColor=caf0f8&animation=fadeIn&fontAlignY=40&desc=Diving%20deep%20into%20code%20·%20Bangkok&descAlignY=62&descSize=18" width="100%" />
 
 <a href="https://github.com/paedayz">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=48CAE4&center=true&vCenter=true&width=620&lines=🫧+Building+APIs+with+NestJS%2C+Go+%26+Express;🐙+Eight+arms%2C+many+stacks%3A+React%2C+Next.js+%26+Flutter;🌊+Diving+into+LLMs+and+speech+AI;🔦+Exploring+the+depths+of+Security+%26+IoT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=48CAE4&center=true&vCenter=true&width=620&lines=Building+APIs+with+NestJS%2C+Go+%26+Express;Eight+arms%2C+many+stacks%3A+React%2C+Next.js+%26+Flutter;Diving+into+LLMs+and+speech+AI;Exploring+the+depths+of+Security+%26+IoT" alt="Typing SVG" />
 </a>
 
 <br/>
